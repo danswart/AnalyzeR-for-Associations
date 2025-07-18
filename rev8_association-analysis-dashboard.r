@@ -38,7 +38,7 @@ theme_set(theme_minimal(base_size = 16) +
 ui <- fluidPage(
   # Add custom CSS for consistent styling
     tags$head(
-      tags$link(rel = "stylesheet", type = "text/css", href = "custom.css")
+      tags$link(rel = "stylesheet", type = "text/css", href = "swart-20250709.css")
     ),
   # tags$head(
   #   tags$style(HTML("
